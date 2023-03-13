@@ -19,6 +19,12 @@ This is the home repository for the Anime Studio software project.
 
 ## Repositories
 
+| [`See the list in URLL format`](/REPOLIST.urll) |
+|---|
+
+| **Repository count:** | `26` |
+|---|---|
+
 - 1. [:octocat: `Anime Studio on GitHub` **(Current)**](https://github.com/seanpm2001/Anime_Studio/)
 - 2. [:octocat: `Anime Studio: Docs on GitHub`](https://github.com/seanpm2001/Anime_Studio_Docs/)
 - 3. [:octocat: `Anime Studio: OpenAnime on GitHub`](https://github.com/seanpm2001/Anime_Studio_OpenAnime/) 
@@ -39,7 +45,12 @@ This is the home repository for the Anime Studio software project.
 - 18. [:octocat: `Anime Studio: ChatBot on GitHub`](https://github.com/seanpm2001/Anime_Studio_ChatBot/)
 - 19. [:octocat: `Anime Studio: Subtitle Tool on GitHub`](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/)
 - 20. [:octocat: `Anime Studio: Game Studio on GitHub`](https://github.com/seanpm2001/Anime_Studio_Game-Studio/)
-
+- 21. [:octocat: `Anime Studio: Manga File Format`](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/)
+- 22. [:octocat: `Anime Studio: Woodblock Printer`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/)
+- 23. [:octocat: `Coming soon (2023, Tuesday, March 14th`](/README.md)
+- 24. [:octocat: `Coming soon (2023, Tuesday, March 14th`](/README.md)
+- 25. [:octocat: `Coming soon (2023, Wednesday, March 15th`](/README.md)
+- 26. [:octocat: `Coming soon (2023, Wednesday, March 15th`](/README.md)
 
 ***
 
@@ -49,9 +60,9 @@ This is the home repository for the Anime Studio software project.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Tuesday, February 21st at 11:07 am PST)`
+**File version:** `3 (2023, Monday, March 13th at 2:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `115`
+**Line count (including blank lines and compiler line):** `147`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -81,7 +92,6 @@ This is the home repository for the Anime Studio software project.
 - [x] Added the title section
 - [x] Added the `Documentation` section
 - [x] Added the file version stamp
-
 - [ ] No other changes in version 1
 
 </details>
@@ -99,7 +109,29 @@ This is the home repository for the Anime Studio software project.
 - [x] Added the `file history` section
 - - [x] Added an entry for version 1
 - - [x] Added an entry for version 2
-- [x] Added the footer 
+- [x] Added the footer
+- [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p><b>Version 3 (2023, Monday, March 13th at 2:13 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+- [x] Updated the `Repositories` section
+- - [x] Added a link to view the list in URLL format
+- - [x] Added the repository count counter
+- - [x] Added links to the 2 latest projects
+- - [x] Added placeholders for day 12 and 13 development repositories that are coming soon
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Updated the entry for version 1
+- - [x] Updated the entry for version 2
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
