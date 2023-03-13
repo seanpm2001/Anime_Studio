@@ -1,11 +1,17 @@
 
 ***
 
-# Anime Studio repository list
+# [Anime Studio repository list](/REPOLIST.md)
 
-**As of:** `2023, March 1st at 11:59 pm PST)`
+**As of:** `2023, Monday, March 13th at 11:59 pm PST)`
 
-## GitHub
+| [`URLL version`](/REPOLIST.urll) |
+|---|
+
+## [GitHub](https://github.com/)
+
+| **Repository count:** | `22` |
+|---|---|
 
 - [:octocat: `Anime Studio on GitHub`](https://github.com/seanpm2001/Anime_Studio/)
 - [:octocat: `Anime Studio: Docs on GitHub`](https://github.com/seanpm2001/Anime_Studio_Docs/)
@@ -27,9 +33,11 @@
 - [:octocat: `Anime Studio: ChatBot on GitHub`](https://github.com/seanpm2001/Anime_Studio_ChatBot/)
 - [:octocat: `Anime Studio: Subtitle Tool on GitHub`](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/)
 - [:octocat: `Anime Studio: Game Studio on GitHub`](https://github.com/seanpm2001/Anime_Studio_Game-Studio/)
+- [:octocat: `Anime Studio: Manga File Format on GitHub`](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/)
+- [:octocat: `Anime Studio: Woodblock Printer on GitHub`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/)
 
 ***
 
-**File version:** `1 (2023, Tuesday, February 21st at 8:02 pm PST)`
+**File version:** `2 (2023, Monday, March 13th at 2:23 pm PST)`
 
 ***
