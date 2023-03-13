@@ -11,6 +11,8 @@ This is the home repository for the Anime Studio software project.
 
 **Description:** `👁️🗾️🏯️ The home repository for Anime Studio, an advanced Free Libre and Open Source multimedia tool for creating Anime, Manga, and more.`
 
+***
+
 ## Documentation
 
 [:octocat: `See the Anime Studio documentation repository`](https://github.com/seanpm2001/Anime_Studio_Docs/)
@@ -19,8 +21,11 @@ This is the home repository for the Anime Studio software project.
 
 ## Repositories
 
-| [`See the list in URLL format`](/REPOLIST.urll) |
+| 📜️ This list: `in other formats` |
 |---|
+| [📄️ `See the list in Markdown format`](/REPOLIST.md) |
+| [📄️ `See the list in URLL format`](/REPOLIST.urll) |
+
 
 | **Repository count:** | `26` |
 |---|---|
@@ -60,9 +65,9 @@ This is the home repository for the Anime Studio software project.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Monday, March 13th at 2:13 pm PST)`
+**File version:** `4 (2023, Monday, March 13th at 2:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `147`
+**Line count (including blank lines and compiler line):** `169`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -132,6 +137,23 @@ This is the home repository for the Anime Studio software project.
 - - [x] Updated the entry for version 2
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p><b>Version 4 (2023, Monday, March 13th at 2:27 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+- [x] Added a divider (horizontal line) in the lead section
+- [x] Updated the `Repositories` section
+- - [x] Added a link to view the list in Markdown format
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
