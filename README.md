@@ -54,8 +54,14 @@ This is the home repository for the Anime Studio software project.
 - 22. [:octocat: `Anime Studio: Woodblock Printer on GitHub`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/)
 - 23. [:octocat: `Anime Studio: Dictionary on GitHub`](https://github.com/seanpm2001/Anime_Studio_Dictionary/)
 - 24. [:octocat: `Anime Studio: Encyclopedia on GitHub`](https://github.com/seanpm2001/Anime_Studio_Encyclopedia/)
-- 25. [:octocat: `Coming soon (2023, Wednesday, March 15th)`](/README.md)
-- 26. [:octocat: `Coming soon (2023, Wednesday, March 15th)`](/README.md)
+- 25. [:octocat: `Anime Studio: Glossary on GitHub`](https://github.com/seanpm2001/Anime_Studio_Glossary/)
+- 26. [:octocat: `Anime Studio: Wiki on GitHub`](https://github.com/seanpm2001/Anime_Studio_Wiki/)
+- 27. [Coming soon](https://www.example.com/)
+- 28. [Coming soon](https://www.example.com/)
+- 29. [Coming soon](https://www.example.com/)
+- 30. [Coming soon](https://www.example.com/)
+- 31. [Coming soon](https://www.example.com/)
+- 32. [Coming soon](https://www.example.com/)
 
 ***
 
@@ -65,9 +71,9 @@ This is the home repository for the Anime Studio software project.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Tuesday, March 14th at 6:42 pm PST)`
+**File version:** `6 (2023, Wednesday, March 15th at 3:39 pm PST)`
 
-**Line count (including blank lines and compiler line):** `185`
+**Line count (including blank lines and compiler line):** `207`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -170,6 +176,22 @@ This is the home repository for the Anime Studio software project.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p><b>Version 6 (2023, Wednesday, March 15th at 3:39 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+- [x] Updated the `Repositories` section
+- - [x] Added a link to the 2 latest repositories.
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
