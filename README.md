@@ -50,12 +50,12 @@ This is the home repository for the Anime Studio software project.
 - 18. [:octocat: `Anime Studio: ChatBot on GitHub`](https://github.com/seanpm2001/Anime_Studio_ChatBot/)
 - 19. [:octocat: `Anime Studio: Subtitle Tool on GitHub`](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/)
 - 20. [:octocat: `Anime Studio: Game Studio on GitHub`](https://github.com/seanpm2001/Anime_Studio_Game-Studio/)
-- 21. [:octocat: `Anime Studio: Manga File Format`](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/)
-- 22. [:octocat: `Anime Studio: Woodblock Printer`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/)
-- 23. [:octocat: `Coming soon (2023, Tuesday, March 14th`](/README.md)
-- 24. [:octocat: `Coming soon (2023, Tuesday, March 14th`](/README.md)
-- 25. [:octocat: `Coming soon (2023, Wednesday, March 15th`](/README.md)
-- 26. [:octocat: `Coming soon (2023, Wednesday, March 15th`](/README.md)
+- 21. [:octocat: `Anime Studio: Manga File Format on GitHub`](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/)
+- 22. [:octocat: `Anime Studio: Woodblock Printer on GitHub`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/)
+- 23. [:octocat: `Anime Studio: Dictionary on GitHub`](https://github.com/seanpm2001/Anime_Studio_Dictionary/)
+- 24. [:octocat: `Anime Studio: Encyclopedia on GitHub`](https://github.com/seanpm2001/Anime_Studio_Encyclopedia/)
+- 25. [:octocat: `Coming soon (2023, Wednesday, March 15th)`](/README.md)
+- 26. [:octocat: `Coming soon (2023, Wednesday, March 15th)`](/README.md)
 
 ***
 
@@ -65,9 +65,9 @@ This is the home repository for the Anime Studio software project.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Monday, March 13th at 2:27 pm PST)`
+**File version:** `5 (2023, Tuesday, March 14th at 6:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `169`
+**Line count (including blank lines and compiler line):** `185`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -154,6 +154,22 @@ This is the home repository for the Anime Studio software project.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p><b>Version 5 (2023, Tuesday, March 14th at 6:42 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+- [x] Updated the `Repositories` section
+- - [x] Added a link to the 2 latest repositories.
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
