@@ -2,7 +2,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: REPOLIST.urll
 //// URL list for Anime Studio repositories
-//// 22 total repository links (as of 2023, Monday, March 13th at 2:20 pm PST)
+//// 24 total repository links (as of 2023, Tuesday, March 14th at 6:44 pm PST)
 
 //// GitHub
 https://github.com/seanpm2001/Anime_Studio
@@ -27,8 +27,10 @@ https://github.com/seanpm2001/Anime_Studio_SubtitleTool
 https://github.com/seanpm2001/Anime_Studio_Game-Studio
 https://github.com/seanpm2001/Anime_Studio_Manga-File-Format
 https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer
+https://github.com/seanpm2001/Anime_Studio_Dictionary
+https://github.com/seanpm2001/Anime_Studio_Encyclopedia
 
 //// File info
-//// File version: 1 (2023, Monday, March 13th at 2:20 pm PST)
-//// Line count (including blank lines and compiler line): 35
+//// File version: 2 (2023, Tuesday, March 14th at 6:44 pm PST)
+//// Line count (including blank lines and compiler line): 37
 //// End of file (EOF)
