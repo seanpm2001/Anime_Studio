@@ -3,16 +3,16 @@
 
 # [Anime Studio repository list](/REPOLIST.md)
 
-**As of:** `2023, Tuesday, March 14th at 11:59 pm PST)`
+**As of:** `2023, Wednesday, March 15th at 11:59 pm PST)`
 
 | [`URLL version`](/REPOLIST.urll) |
 |---|
 
-> **Note** There is a 1 number difference between the Markdown and URLL RepoList files, as the URLL RepoList variant is newer.
+> **Note** There is a 1 number difference between the [Markdown](/REPOLIST.md) and [URLL](/REPOLIST.urll) RepoList files, as the [URLL RepoList](/REPOLIST.urll) variant is newer.
 
 ## [GitHub](https://github.com/)
 
-| **Repository count:** | `24` |
+| **Repository count:** | `26` |
 |---|---|
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this list]</b></p></summary>
@@ -41,11 +41,13 @@
 - [:octocat: `Anime Studio: Woodblock Printer on GitHub`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/)
 - [:octocat: `Anime Studio: Dictionary on GitHub`](https://github.com/seanpm2001/Anime_Studio_Dictionary/)
 - [:octocat: `Anime Studio: Encyclopedia on GitHub`](https://github.com/seanpm2001/Anime_Studio_Encyclopedia/)
+- [:octocat: `Anime Studio: Glossary on GitHub`](https://github.com/seanpm2001/Anime_Studio_Glossary/)
+- [:octocat: `Anime Studio: Wiki on GitHub`](https://github.com/seanpm2001/Anime_Studio_Wiki/)
 
 </details>
 
 ***
 
-**File version:** `3 (2023, Tuesday, March 14th at 6:48 pm PST)`
+**File version:** `4 (2023, Wednesday, March 15th at 3:45 pm PST)`
 
 ***
