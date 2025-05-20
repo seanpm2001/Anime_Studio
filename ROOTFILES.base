@@ -1,4 +1,5 @@
 /.github/
+/.gitlab/
 /Anime_Studio/
 /Docs/
 /OldVersions/
@@ -12,6 +13,7 @@
 /AUTHORS
 /AUTOMATE2001.yaml
 /AUTOMATE2001.yml
+/Anime_Studio_REPOLIST.urll
 /CONTRIBUTING.md
 /COPYINGL
 /CREDITS
