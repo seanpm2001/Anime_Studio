@@ -2,10 +2,10 @@
 //// Anime_Studio_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Anime Studio project repositories by @seanpm2001
-//// As of 2025, Monday, May 19th
+//// As of 2025, Tuesday, May 20th
 
 //// ----------------------------------------------------- \\\\
-//// Anime Studio Project (30)
+//// Anime Studio Project (38)
 //// ----------------------------------------------------- \\\\
 
 //// GitHub (30)
@@ -38,37 +38,45 @@ https://github.com/seanpm2001/Anime_Studio_Manga-Studio_Docs
 https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs
 https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs_Docs
 
-//// Anime Studio Video Editor (1)
+//// Anime Studio Video Editor (2)
 
 https://github.com/seanpm2001/Anime_Studio_Video-Editor
+https://github.com/seanpm2001/Anime_Studio_Video-Editor_Docs
 
-//// Anime Studio Application Core (1)
+//// Anime Studio Application Core (2)
 
 https://github.com/seanpm2001/Anime_Studio_ApplicationCore
+https://github.com/seanpm2001/Anime_Studio_ApplicationCore_Docs
 
-//// Anime Studio Hentai (1)
+//// Anime Studio Hentai (2)
 
 https://github.com/seanpm2001/Anime_Studio_Hentai
+https://github.com/seanpm2001/Anime_Studio_Hentai_Docs
 
-//// Anime Studio Avatar Studio (1)
+//// Anime Studio Avatar Studio (2)
 
 https://github.com/seanpm2001/Anime_Studio_AvatarStudio
+https://github.com/seanpm2001/Anime_Studio_AvatarStudio_Docs
 
-//// Anime Studio Style Manager (1)
+//// Anime Studio Style Manager (2)
 
 https://github.com/seanpm2001/Anime_Studio_StyleManager
+https://github.com/seanpm2001/Anime_Studio_StyleManager_Docs
 
-//// Anime Studio Library (1)
+//// Anime Studio Library (2)
 
 https://github.com/seanpm2001/Anime_Studio_Library
+https://github.com/seanpm2001/Anime_Studio_Library_Docs
 
-//// Anime Studio Exporter (1)
+//// Anime Studio Exporter (2)
 
 https://github.com/seanpm2001/Anime_Studio_Exporter
+https://github.com/seanpm2001/Anime_Studio_Exporter_Docs
 
-//// Anime Studio Image Editor (1)
+//// Anime Studio Image Editor (2)
 
 https://github.com/seanpm2001/Anime_Studio_Image-Editor
+https://github.com/seanpm2001/Anime_Studio_Image-Editor_Docs
 
 //// Anime Studio Audio Editor (1)
 
@@ -119,8 +127,8 @@ https://github.com/seanpm2001/Anime_Studio_Glossary
 https://github.com/seanpm2001/Anime_Studio_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Anime Studio): 30
-//// 1+1+2+2+2+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=30
+//// Repo count (Anime Studio): 38
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+1+1+1+1+1+1+1+1+1+1+1+1=38
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -134,15 +142,15 @@ https://github.com/seanpm2001/Japan/
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 31
-//// 30+1=31
+//// Total repo count: 39
+//// 38+1=39
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2025, Monday, May 19th at 05:37 pm PST)
-//// Line count (including blank lines and compiler line): 149
+//// File version: 5 (2025, Tuesday, May 20th at 05:18 pm PST)
+//// Line count (including blank lines and compiler line): 157
 //// ----------------------------------------------------- \\\\
 
 //// End of file
