@@ -2,10 +2,10 @@
 //// Anime_Studio_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Anime Studio project repositories by @seanpm2001
-//// As of 2025, Tuesday, May 20th
+//// As of 2025, Wednesday, May 21st
 
 //// ----------------------------------------------------- \\\\
-//// Anime Studio Project (38)
+//// Anime Studio Project (46)
 //// ----------------------------------------------------- \\\\
 
 //// GitHub (30)
@@ -78,41 +78,49 @@ https://github.com/seanpm2001/Anime_Studio_Exporter_Docs
 https://github.com/seanpm2001/Anime_Studio_Image-Editor
 https://github.com/seanpm2001/Anime_Studio_Image-Editor_Docs
 
-//// Anime Studio Audio Editor (1)
+//// Anime Studio Audio Editor (2)
 
 https://github.com/seanpm2001/Anime_Studio_Audio-Editor
+https://github.com/seanpm2001/Anime_Studio_Audio-Editor_Docs
 
-//// Anime Studio SocialShare (1)
+//// Anime Studio SocialShare (2)
 
 https://github.com/seanpm2001/Anime_Studio_SocialShare
+https://github.com/seanpm2001/Anime_Studio_SocialShare_Docs
 
 //// Anime Studio Website (1)
 
 https://github.com/seanpm2001/Anime_Studio_Website
 
-//// Anime Studio ChatBot (1)
+//// Anime Studio ChatBot (2)
 
 https://github.com/seanpm2001/Anime_Studio_ChatBot
+https://github.com/seanpm2001/Anime_Studio_ChatBot_Docs
 
-//// Anime Studio Subtitle Tool (1)
+//// Anime Studio Subtitle Tool (2)
 
 https://github.com/seanpm2001/Anime_Studio_SubtitleTool
+https://github.com/seanpm2001/Anime_Studio_SubtitleTool_Docs
 
-//// Anime Studio Game Studio (1)
+//// Anime Studio Game Studio (2)
 
 https://github.com/seanpm2001/Anime_Studio_Game-Studio
+https://github.com/seanpm2001/Anime_Studio_Game-Studio_Docs
 
-//// Anime Studio Manga File Format (1)
+//// Anime Studio Manga File Format (2)
 
 https://github.com/seanpm2001/Anime_Studio_Manga-File-Format
+https://github.com/seanpm2001/Anime_Studio_Manga-File-Format_Docs
 
-//// Anime Studio Woodblock Printer (1)
+//// Anime Studio Woodblock Printer (2)
 
 https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer
+https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer_Docs
 
-//// Anime Studio Dictionary (1)
+//// Anime Studio Dictionary (2)
 
 https://github.com/seanpm2001/Anime_Studio_Dictionary
+https://github.com/seanpm2001/Anime_Studio_Dictionary_Docs
 
 //// Anime Studio Encyclopedia (1)
 
@@ -127,30 +135,34 @@ https://github.com/seanpm2001/Anime_Studio_Glossary
 https://github.com/seanpm2001/Anime_Studio_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Anime Studio): 38
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+1+1+1+1+1+1+1+1+1+1+1+1=38
+//// Repo count (Anime Studio): 46
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+1+2+2+2+2+2+2+1+1+1=46
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
-//// See also (1)
+//// See also (2)
 
 //// Japan (1)
 
 https://github.com/seanpm2001/Japan/
 
+//// Anime (@seanpm2001) (1)
+
+https://github.com/seanpm2001/Anime/
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 1
-//// 1+0=1
+//// Repo count (See also): 2
+//// 1+1=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 39
-//// 38+1=39
+//// Total repo count: 48
+//// 46+2=48
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 5 (2025, Tuesday, May 20th at 05:18 pm PST)
-//// Line count (including blank lines and compiler line): 157
+//// File version: 6 (2025, Wednesday, May 21st at 05:51 pm PST)
+//// Line count (including blank lines and compiler line): 169
 //// ----------------------------------------------------- \\\\
 
 //// End of file
