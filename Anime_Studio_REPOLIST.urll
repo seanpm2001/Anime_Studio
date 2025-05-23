@@ -2,13 +2,13 @@
 //// Anime_Studio_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Anime Studio project repositories by @seanpm2001
-//// As of 2025, Wednesday, May 21st
+//// As of 2025, Thursday, May 22nd
 
 //// ----------------------------------------------------- \\\\
-//// Anime Studio Project (46)
+//// Anime Studio Project (48)
 //// ----------------------------------------------------- \\\\
 
-//// GitHub (30)
+//// GitHub (48)
 
 //// Anime Studio Core (1)
 
@@ -122,21 +122,23 @@ https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer_Docs
 https://github.com/seanpm2001/Anime_Studio_Dictionary
 https://github.com/seanpm2001/Anime_Studio_Dictionary_Docs
 
-//// Anime Studio Encyclopedia (1)
+//// Anime Studio Encyclopedia (2)
 
 https://github.com/seanpm2001/Anime_Studio_Encyclopedia
+https://github.com/seanpm2001/Anime_Studio_Encyclopedia_Docs
 
-//// Anime Studio Glossary (1)
+//// Anime Studio Glossary (2)
 
 https://github.com/seanpm2001/Anime_Studio_Glossary
+https://github.com/seanpm2001/Anime_Studio_Glossary_Docs
 
 //// Anime Studio Wiki (1)
 
 https://github.com/seanpm2001/Anime_Studio_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Anime Studio): 46
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+1+2+2+2+2+2+2+1+1+1=46
+//// Repo count (Anime Studio): 48
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+1+2+2+2+2+2+2+2+2+1=48
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -154,15 +156,15 @@ https://github.com/seanpm2001/Anime/
 //// Repo count (See also): 2
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 48
-//// 46+2=48
+//// Total repo count: 50
+//// 48+2=50
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 6 (2025, Wednesday, May 21st at 05:51 pm PST)
-//// Line count (including blank lines and compiler line): 169
+//// File version: 7 (2025, Thursday, May 22nd at 05:24 pm PST)
+//// Line count (including blank lines and compiler line): 171
 //// ----------------------------------------------------- \\\\
 
 //// End of file
